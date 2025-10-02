@@ -1,5 +1,5 @@
 # FlaskApp
-A simple Python/Flask app to deploy using containerization and infrastructure-as-code.
+A simple Python/Flask app to deploy using infrastructure-as-code.
 
 ## Goal
 In roughly 2–3 hours, deploy this app to a managed service using IaC. Prefer GCP App Engine and/or AWS Elastic Beanstalk (either one is acceptable; both are a plus if time permits).
